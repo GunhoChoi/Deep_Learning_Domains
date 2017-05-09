@@ -11,6 +11,7 @@
 ## Autonomous Driving
 
 1. Mapillary (http://research.mapillary.com/, http://blog.mapillary.com/product/2017/05/03/mapillary-vistas-dataset.html)
+2. LinkNet using CityScape data (https://codeac29.github.io/projects/linknet/)
 
 ## Computer Graphics
 
