@@ -8,6 +8,7 @@
 ## Satellite Image 
 
 1. DSTL Challenge 2017 - DeepsenseIO (https://deepsense.io/deep-learning-for-satellite-imagery-via-image-segmentation/)
+2. Detection according to resolution (https://medium.com/the-downlinq/the-satellite-utility-manifold-object-detection-accuracy-as-a-function-of-image-resolution-ebb982310e8c)
 
 ## Autonomous Driving
 
